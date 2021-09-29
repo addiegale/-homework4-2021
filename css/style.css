@@ -92,10 +92,6 @@ table{
     align-items: center;
 
 }
-
-tr:hover {
-  background-color: rgba(126,8,37,0.25);
-}
   
 
 /* I gave you the selector, but not the property-value pair. 
@@ -112,6 +108,9 @@ tr:nth-child(even) {
   background-color: #D1D1D1
 }
 
+tr:hover {
+  background-color: rgba(126,8,37,0.25);
+}
 /*Add selectors and rules here*/
 
 
