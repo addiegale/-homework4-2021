@@ -94,7 +94,7 @@ table{
 }
 
 tr:hover {
-  background-color: rgba(126,8,37,.25);
+  background-color: rgba(126,8,37,0.25);
 }
   
 
@@ -122,4 +122,6 @@ body > footer{
   text-align:center;
   color: #FFFFFF;
   position: absolute;
+  left: 0;
+  bottom: -75;
 }
